@@ -30,3 +30,4 @@ def create_dummy_variables(origin_lst, origin_da_fr, col_name):
 
 data1 = create_dummy_variables(lst, data, 'whoAmI')
 print(data1)
+
